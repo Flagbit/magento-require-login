@@ -1,0 +1,9 @@
+{
+  "name": "flagbit/magento-require-login",
+  "description": "Magento extension to force customer authentication in frontend",
+  "homepage": "https://github.com/Flagbit/magento-require-login",
+  "type": "magento-module",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}

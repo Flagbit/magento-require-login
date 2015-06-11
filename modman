@@ -1,0 +1,3 @@
+src/app/code/community/Bubble/RequireLogin      app/code/community/Bubble/RequireLogin
+src/app/etc/modules/Bubble_RequireLogin.xml     app/etc/modules/Bubble_RequireLogin.xml
+src/app/locale/fr_FR/Bubble_RequireLogin.csv    app/locale/fr_FR/Bubble_RequireLogin.csv
